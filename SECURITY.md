@@ -1,3 +1,3 @@
 # Reporting and Fixing Security Issues
 
-Please report all security vulnerabilities to security@zeroc.com.
+Please do not open GitHub issues or pull requests - this makes the problem immediately visible to everyone, including malicious actors. Security issues in this open source project should be safely reported via email to security@zeroc.com.
