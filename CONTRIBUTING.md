@@ -25,9 +25,3 @@ To contribute code or documentation to this project, please follow these steps:
 We review carefully any contribution that we accept, and these reviews may take
 some time. Please keep in mind there is no guarantee your contribution will be
 accepted: we may reject a pull request for any reason, or no reason.
-
-## Contact
-
-- GitHub Discussions: <https://github.com/zeroc-ice/ice/discussions>
-- Twitter: <https://twitter.com/zeroc>
-- Email: <contributing@zeroc.com>
